@@ -21,3 +21,5 @@ Dichiariamo chi ha vinto.
 ## Svolgimento
 1) l'utente inserisce con due prompt il numero e la scelta (pari o dispari)
 2) creo una funzione che generi un numero random
+3) Sommo il risultato dei due numeri
+4) determino attraverso una funzione seil risultato dell'addizione si aun numero pari o dispari
