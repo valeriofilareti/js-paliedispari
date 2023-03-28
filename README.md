@@ -18,3 +18,6 @@ Generiamo un numero random (sempre da 1 a 5) per il computer (usando una funzion
 Sommiamo i due numeri
 Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione)
 Dichiariamo chi ha vinto.
+## Svolgimento
+1) l'utente inserisce con due prompt il numero e la scelta (pari o dispari)
+2) creo una funzione che generi un numero random

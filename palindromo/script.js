@@ -4,7 +4,7 @@ Creare una funzione per capire se la parola inserita è palindroma
 */
 
 
-const userWord = prompt('parola')
+const userWord = 'anna' //prompt('parola')
 
 const reversedWord = rev(userWord)
 
